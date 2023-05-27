@@ -1,0 +1,42 @@
+#c1{
+height: 200px;
+width: 180px;   
+background-color:rgb(66, 65, 65);
+overflow: auto;
+box-shadow: inset 10px px 1px black;
+}
+#c2{
+    height: 200px;
+    width: 180px;
+    border: 1px solid rgb(23, 238, 105);    
+    background-color: rgb(23, 238, 105);    
+ overflow: hidden;
+}
+#c3{
+    height: 200px;
+    width: 180px;
+    border: 1px solid rgb(241, 16, 83);    
+     background-color: deeppink;  
+     overflow-y: scroll;
+}
+
+
+#c4{
+    height: 200px;
+    width: 180px;
+    border: 1px solid rgb(231, 6, 231);    
+     background-color: rgb(214, 10, 136);  
+}
+#c5{
+    height: 200px;
+    width: 180px;
+    border: 1px solid rgb(231, 134, 6);    
+     background-color: rgb(255, 130, 12); 
+   
+}
+#c1,#c2,#c3,#c4,#c5{
+    float: left;
+    position: relative;
+    margin: 50px;
+    }
+
